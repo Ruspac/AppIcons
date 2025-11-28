@@ -110,9 +110,4 @@ All the following files are included in the repository and linked to the AppIcon
 512.png
 1024.png
 ```
-
-(Exact names depend on your uploaded set but the above list reflects typical required assets.)
-
 ---
-
-If you want, I can **generate a perfect `README.md` for GitHub** or prepare a zipped icon pack for App Store / Play Store upload.
