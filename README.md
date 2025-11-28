@@ -12,13 +12,13 @@ This is the official logo image of the **Ruspac** app.
 
 Use this folder for all required app icons for the Play Store, App Store, and internal builds.
 
+/Ruspac/AppIcons/
+
 ## URL
 
 Official website / landing page:
 
 [https://www.ruspac.com](https://www.ruspac.com)
-
-(If you want a different URL included, just let me know!)
 
 ## About the Image
 
